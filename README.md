@@ -2,8 +2,9 @@
 
 ### Instalações necessárias
 
-NodeJS
-MongoDB
+- NodeJS
+
+- MongoDB
 
 O projeto possui uma divisão backend e frontend.
 
