@@ -1,5 +1,7 @@
 # To do app
 
+Aplicativo de lista de tarefas, feito com NodeJS, MongoDB e React.
+
 ### Instalações necessárias
 
 - NodeJS
