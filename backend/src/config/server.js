@@ -10,7 +10,7 @@ server.use(bodyParser.json())
 server.use(allowCors)
 
 server.listen(port, function(){
-    console.log(`dsdsdsdsdsdsds ${port}.`)
+    console.log(`Conectado na porta ${port}.`)
 })
 
 module.exports = server
